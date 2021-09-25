@@ -1,0 +1,14 @@
+.miniCart
+{
+    animation: appear 0.3s ease-out forwards;
+}
+@keyframes appear {
+    from
+    {
+        right: -100%;
+    }
+    to
+    {
+        right: 20px;
+    }
+}
